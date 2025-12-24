@@ -158,6 +158,7 @@ const bancoDeCartas = [
         senha: "raphael",
         titulo: "huesny,",
         texto: `te desejo muito amor, paz, saúde e esperança para 2026. feliz natal!`,
+        imagem: "./image/sara_huesny.png",
         assinatura: "duda"
     },
     {
@@ -193,7 +194,7 @@ const bancoDeCartas = [
         senha: "cabofrio",
         titulo: "sara,",
         texto: `obrigada por cuidar com tanto carinho de quem eu amo e por ter somado tanto na nossa grande família. feliz natal!`,
-        imagem: "./image/sara.jpg",
+        imagem: "./image/sara_huesny.png",
         assinatura: "duda"
     },
     {
@@ -211,7 +212,7 @@ const bancoDeCartas = [
         senha: "madalena",
         titulo: "morgana,",
         texto: `te desejo muito amor e sucesso para 2026! que venha o tão sonhado CRM (e depois o casamento!). feliz natal!`,
-        imagem: "./image/morgana.jpg",
+        imagem: "./image/sara_huesny.png",
         assinatura: "duda"
     },
     {
