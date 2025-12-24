@@ -72,6 +72,15 @@ const bancoDeCartas = [
         assinatura: "sua prima favorita"
     },
     {
+        id: "hilda",
+        nome: "dona hilda",
+        senha: "leandro",
+        titulo: "dona hilda",
+        texto: `que Jesus te ilumine e traga um 2026 recheado de saúde, paz e amor. feliz natal!`,
+        imagem: "./image/hilda.png",
+        assinatura: "duda"
+    },
+    {
         id: "mauro",
         nome: "tio mauro",
         senha: "brasil",
