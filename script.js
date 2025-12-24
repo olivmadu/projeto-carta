@@ -14,7 +14,7 @@ const bancoDeCartas = [
         senha: "cristiane", 
         titulo: "justin,",
         texto: `i can't express how meaningful it is for me to see my mom so happy with someone who is so kind and gentle. you are truly part of the family. we're waiting for you here, merry christmas!`,
-        imagem: "./image/justin.jpg",
+        imagem: "./image/justin.png",
         assinatura: "duda"
     },
     {
@@ -32,7 +32,7 @@ const bancoDeCartas = [
         senha: "helcio",
         titulo: "tó,",
         texto: `obrigada por ser esse alicerce firme ao nosso lado. eu não seria a mulher que sou hoje se não fossem seus ensinamentos e seu amor. feliz natal!`,
-        imagem: "./image/to.jpg",
+        imagem: "./image/to.png",
         assinatura: "sua primeirA netA"
     }, 
     {
@@ -41,7 +41,7 @@ const bancoDeCartas = [
         senha: "leandro",
         titulo: "tia aline,",
         texto: `obrigada por ser meu apoio incondicional e por sua presença constante durante toda a minha vida. você é essencial para mim. feliz natal!`,
-        imagem: "./image/aline.jpg",
+        imagem: "./image/aline.png",
         assinatura: "sua sobrinha favorita"
     },
     {
@@ -59,7 +59,7 @@ const bancoDeCartas = [
         senha: "aline",
         titulo: "leandro,",
         texto: `obrigada por aumentar nossa família e deixar ela muito mais legal, ainda mais quando você tá desembarcado rsrs. feliz natal!`,
-        imagem: "./image/leandro.jpg",
+        imagem: "./image/leandro_murilo.png",
         assinatura: "sua sobrinha favorita"
     },
     {
@@ -68,7 +68,7 @@ const bancoDeCartas = [
         senha: "chato",
         titulo: "murilo",
         texto: `eu sei que você me ama e adora quando eu estou em bicas, a implicância é uma forma de amor bobinho. feliz natal!`,
-        imagem: "./image/murilo.jpg",
+        imagem: "./image/leandro_murilo.png",
         assinatura: "sua prima favorita"
     },
     {
@@ -77,7 +77,7 @@ const bancoDeCartas = [
         senha: "brasil",
         titulo: "tio mauro",
         texto: `eu admiro profundamente a sua força e a sua coragem de sempre começar de novo, você é uma inspiração de resiliência. feliz natal!`,
-        imagem: "./image/mauro.jpg",
+        imagem: "./image/mauro.png",
         assinatura: "sua primeira sobrinha"
     },
     {
@@ -86,7 +86,7 @@ const bancoDeCartas = [
         senha: "steam",
         titulo: "harley",
         texto: `eu gosto muito de você e sinto saudades de você pequenininho. feliz natal!`,
-        imagem: "./image/harley.jpg",
+        imagem: "./image/harley.png",
         assinatura: "sua primeira prima"
     },
     {
@@ -95,7 +95,7 @@ const bancoDeCartas = [
         senha: "dota",
         titulo: "lucas",
         texto: `ter crescido com você fez minha infância mais feliz. obrigada por ser meu irmão e meu amigo pra vida toda. feliz natal!`,
-        imagem: "./image/lucas.jpg",
+        imagem: "./image/lucas.png",
         assinatura: "sua melhor irmã"
     },
     {
@@ -131,7 +131,7 @@ const bancoDeCartas = [
         senha: "maromba",
         titulo: "ramon,",
         texto: `sempre que penso em você, fico feliz por ter ganhado mais um irmão pela vida, conta sempre comigo. feliz natal!`,
-        imagem: "./image/ramon.jpg",
+        imagem: "./image/ramon_raphael.png",
         assinatura: "sua hermana do peru"
     },
     {
@@ -140,7 +140,7 @@ const bancoDeCartas = [
         senha: "carro",
         titulo: "raphael,",
         texto: `que 2026 realize todos seus sonhos, te traga muito amor, paz, esperança e saúde. feliz natal!`,
-        imagem: "./image/raphael.jpg",
+        imagem: "./image/ramon_raphael.png",
         assinatura: "duda"
     },
     {
@@ -149,7 +149,6 @@ const bancoDeCartas = [
         senha: "raphael",
         titulo: "huesny,",
         texto: `te desejo muito amor, paz, saúde e esperança para 2026. feliz natal!`,
-        imagem: "./image/huesny.jpg",
         assinatura: "duda"
     },
     {
@@ -158,7 +157,7 @@ const bancoDeCartas = [
         senha: "flamengo",
         titulo: "padrinho,",
         texto: `obrigada por se fazer tão presente na minha vida e nunca deixar que me faltasse o amor e a imagem de um pai. feliz natal!`,
-        imagem: "./image/padrinho.jpg",
+        imagem: "./image/padrinho.png",
         assinatura: "dudinha"
     },
     {
@@ -167,7 +166,7 @@ const bancoDeCartas = [
         senha: "praia",
         titulo: "dindinha,",
         texto: `obrigada por ser essa mulher incrível que sempre foi minha maior referência de como eu quero ser quando crescer. feliz natal!`,
-        imagem: "./image/dindinha.jpg",
+        imagem: "./image/dindinha.png",
         assinatura: "dudinha"
     },
     {
@@ -176,7 +175,7 @@ const bancoDeCartas = [
         senha: "iphone",
         titulo: "kauã,",
         texto: `obrigada por marcar uma das melhores épocas da minha vida e me dar a alegria de ser irmã mais velha. tenho orgulho de você. feliz natal!`,
-        imagem: "./image/kaua.jpg",
+        imagem: "./image/kaua.png",
         assinatura: "duda"
     },
     {
@@ -194,7 +193,7 @@ const bancoDeCartas = [
         senha: "joaquim",
         titulo: "kaiky,",
         texto: `obrigada por sempre trazer alegria e luz para todos os lugares onde você chega. só quem se arrisca vive o extraordinário. feliz natal!`,
-        imagem: "./image/kaiky.jpg",
+        imagem: "./image/kaiky.png",
         assinatura: "duda"
     },
     {
