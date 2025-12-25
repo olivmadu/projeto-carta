@@ -144,6 +144,15 @@ const bancoDeCartas = [
         assinatura: "sua hermana do peru"
     },
     {
+        id: "lili",
+        nome: "tia lili",
+        senha: "gemeos",
+        titulo: "tia lili,",
+        texto: `sou muito grata por todo cuidado e paciência que você teve comigo quando criança, sinto muitas saudades. feliz natal!`,
+        imagem: "./image/lili.png",
+        assinatura: "duda"
+    },
+    {
         id: "raphael",
         nome: "raphael",
         senha: "carro",
