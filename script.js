@@ -198,6 +198,15 @@ const bancoDeCartas = [
         assinatura: "duda"
     },
     {
+        id: "adriana",
+        nome: "adriana",
+        senha: "natura",
+        titulo: "adriana,",
+        texto: `que o ano de 2026 seja repleto de saúde, amor e felicidade, te desejo sempre o melhor. feliz natal!`,
+        imagem: "./image/sara_huesny.png",
+        assinatura: "duda"
+    },
+    {
         id: "kaiky",
         nome: "kaiky",
         senha: "joaquim",
